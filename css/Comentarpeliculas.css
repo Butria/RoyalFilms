@@ -1,0 +1,13 @@
+/* build your own custom Bootstrap theme:
+   https://themestr.app
+*/
+.carousel, .carousel-inner > .carousel-item > img {
+  height: 300px;
+}
+#conten1{
+     position: relative;
+}
+#conten2{
+    position: unset;
+ 
+}
