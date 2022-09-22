@@ -1,0 +1,60 @@
+<div class="container shadow min-vh-100 py-2">
+    <div class="row">
+        <nav class="navbar navbar-dark" style="background-color: #002955;" > 
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">ROYAL FILMS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">INICIO</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">CARTELERA</a>
+                    </li>
+                  </ul>
+                  <form class="d-flex">
+                    <button type="button" class="btn btn-secondary">Cupo</button>
+                  </form>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div id="conten1"class="row">
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://pics.filmaffinity.com/the_northman-710039658-large.jpg" class="d-block w-100" alt="...">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+    </div>
+    <div id="conten2" class="container overflow-hidden">
+      <div class="row">
+        <div class="col">
+         <div class="p-3 border bg-light"><img src="https://pics.filmaffinity.com/the_northman-838738443-large.jpg" class="img-thumbnail" alt="..."></div>
+        </div>
+        <div class="col">
+            <p><FONT COLOR="yellow"><b>Titulo:</b></FONT> El hombre del norte</p><FONT COLOR="yellow"><b>Original:</b></FONT> The Northman
+          
+          <p><h3>JUE.  VIE.  SAB.</h3></p>
+          <P><H6>22 sep. 23 sep. 24 sep.</H6></P>
+          <p style="background:lightblue;">MULTICINE JARDIN PLAZA</p>
+          <p style="background:white;">3D  Dob &nbsp &nbsp &nbsp<p style="background:yellow;">03:40 PM&nbsp 07:20 PM</p> </p>
+          <div style= class=div p-3 border bg-light"<h2><b>EL HOMBRE DEL NORTE</b></div></h2>
+          <div style=</div><p>The Northman es una próxima película de venganza histórica estadounidense dirigida por Robert Eggens,quien coescribió el guión con Sjón.Ambientada a principios del siglo X en Islandia, está protagonizada por Alexander Skarsgard como el príncipe nórdico Amleth, que busca venganza después del asesinato de su padre.</p>
+</div> <p><textarea name="mensaje" placeholder="Comentar"></textarea></p> <p><textarea name="mensaje" placeholder="Gestionar Comentario"></textarea></p>
+      </div>
+    </div>
+</div>
+<body style="background-color:Gainsboro;">
